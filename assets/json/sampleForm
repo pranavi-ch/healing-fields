@@ -1,0 +1,19 @@
+{
+  "status": 1,
+  "data": [
+    {
+      "questions": [
+        {
+          "question_id": "1",
+          "fields": ["abvoe 40km/h", "below 40km/h", "0km/h"],
+          "_id": "60dc6a3dc9fe14577c30d271",
+          "title": "Please provide the speed of vehicle?",
+          "description": "please select one option given below",
+          "remark": true,
+          "type": "multiple",
+          "is_mandatory": true
+        }
+      ]
+    }
+  ]
+}
